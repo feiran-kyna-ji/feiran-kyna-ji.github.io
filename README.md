@@ -1,3 +1,4 @@
+title: Kyna Ji
 
 # About Me
 Hi! I am Kyna :D.
