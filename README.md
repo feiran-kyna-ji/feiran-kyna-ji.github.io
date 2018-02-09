@@ -22,6 +22,6 @@ My data science skillset includes:
 ### Data Engineering
 * [USC Advancement Office Database Design](https://github.com/feiran-kyna-ji/usc-database-design)
 
-# Contact
-[My LinkedIn](https://www.linkedin.com/in/kyna-ji/)
-[My Github](https://github.com/feiran-kyna-ji)
+# Contact Me
+[LinkedIn](https://www.linkedin.com/in/kyna-ji/)  
+[Github](https://github.com/feiran-kyna-ji)
