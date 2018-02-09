@@ -25,3 +25,6 @@ My data science skillset includes:
 # Contact Me
 [LinkedIn](https://www.linkedin.com/in/kyna-ji/)  
 [Github](https://github.com/feiran-kyna-ji)
+
+
+<title>Kyna Ji</title>
