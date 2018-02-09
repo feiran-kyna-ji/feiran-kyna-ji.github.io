@@ -1,7 +1,4 @@
-title: Kyna Ji
-
-# About Me
-Hi! I am Kyna :D.
+# Hi! I am Kyna :D
 I am currently a master candidate in Data Science at University of San Francisco. I am also a data science intern at Ubisoft. Prior to that, I graduated with a double major in Business and East Asian Studies at University of Southern California, where I began to be fascinated by the business potential for data in predicting future trends. I enjoy building machine learning models to predict, and I am passionate about data-driven business decision-making.
 
 My data science skillset includes:
