@@ -1,4 +1,5 @@
 # Sales Data Integration Project
+Author: [Kyna Ji](https://github.com/feiran-kyna-ji), Stanley Su  
 
 ## Goal
 The goal of this project is to help an online vendor to integrate data from different sales platforms (e.g. Amazon, Ebay, etc.) into a database. 
