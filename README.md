@@ -18,23 +18,23 @@ My data science skillset includes:
 * Programming: Python, R, Spark, Matlab, Excel
 * Visualizations: Tableau, ggplot2, Matplotlib
 * Databases: SQL(PostgreSQL, Oracle 11g, Microsoft SQL, Teradata), NoSQL(MongoDB)
-* Machine learning skills (Regression, Random Forests, Gradient Boosting, Support Vector Machine, Nature Language Processing)
+* Machine learning skills (Regression, Random Forests, Gradient Boosting, Support Vector Machine, Neural Network)
 
-  
 ## Projects
 ### Machine Learning
-* London Energy Usage Forecasting
+* [London Energy Usage Forecasting (Random Forest)](https://feiran-kyna-ji.github.io/projects/smart_meter)
 * [Canadian Bankruptcy Rate Prediction Project (Time Series)](https://github.com/feiran-kyna-ji/canadian-bankruptcy-time-series)
 * Article Recommender
+* Iowa Housing Price Prediction (Regression)
 
-### Data Mining
-* Sales Data Integration
+### Data Mining/Cleaning
 * Twitter Sentiment Analysis
+* Bart Data Cleaning
 
 ### Data Engineering
 * [USC Advancement Office Database Design](https://github.com/feiran-kyna-ji/usc-database-design)
+* [Sales Data Integration](https://feiran-kyna-ji.github.io/projects/sales_data)
 
 ## Contact Me
 [LinkedIn](https://www.linkedin.com/in/kyna-ji/)  
 [Github](https://github.com/feiran-kyna-ji)
-
