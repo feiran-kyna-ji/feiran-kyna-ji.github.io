@@ -22,16 +22,18 @@ My data science skillset includes:
 
 ## Projects
 ### Machine Learning
-* [London Energy Usage Forecasting](https://feiran-kyna-ji.github.io/projects/smart_meter)
+* [London Energy Usage Forecasting (Random Forest)](https://feiran-kyna-ji.github.io/projects/smart_meter)
 * [Canadian Bankruptcy Rate Prediction Project (Time Series)](https://github.com/feiran-kyna-ji/canadian-bankruptcy-time-series)
 * Article Recommender
+* Iowa Housing Price Prediction (Regression)
 
-### Data Mining
-* [Sales Data Integration](https://feiran-kyna-ji.github.io/projects/sales_data)
+### Data Mining/Cleaning
 * Twitter Sentiment Analysis
+* Bart Data Cleaning
 
 ### Data Engineering
 * [USC Advancement Office Database Design](https://github.com/feiran-kyna-ji/usc-database-design)
+* [Sales Data Integration](https://feiran-kyna-ji.github.io/projects/sales_data)
 
 ## Contact Me
 [LinkedIn](https://www.linkedin.com/in/kyna-ji/)  
