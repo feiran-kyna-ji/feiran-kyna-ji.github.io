@@ -24,7 +24,7 @@ My data science skillset includes:
 ### Machine Learning
 * [London Energy Usage Forecasting (Random Forest)](https://feiran-kyna-ji.github.io/projects/smart_meter)
 * [Canadian Bankruptcy Rate Prediction Project (Time Series)](https://github.com/feiran-kyna-ji/canadian-bankruptcy-time-series)
-* Article Recommender
+* Article Recommender (Natural Language Process)
 * Iowa Housing Price Prediction (Regression)
 
 ### Data Mining/Cleaning
