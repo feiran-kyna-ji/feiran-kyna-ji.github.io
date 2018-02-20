@@ -1,40 +1,17 @@
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113914402-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+# London Energy Usage Forecasting
+Author: [Kyna Ji](https://github.com/feiran-kyna-ji), [Chris Dong](https://github.com/dongchris), [Lingzhi Du](https://github.com/LenzDu), [Amber Song](https://github.com/ambersongzz), [Vanessa Zheng](https://github.com/VZ0624)
+(Publication is under submission)
 
-  gtag('config', 'UA-113914402-1');
-</script>
+## Goal
+The EU aims to replace at least 80% of electricity meters with smart meters by 2020. We aimed to leverage the vast amount of smart meter data and build scalable machine learning model to forecast future energy usage. This will make people more informed on energy consumption patterns and benefit energy companies management.
 
-<title>
-Kyna Ji
-</title>
-
-## Hi! I am Kyna :D
-I am currently a master candidate in Data Science at University of San Francisco. I am also a data science intern at Ubisoft. Prior to that, I graduated with a double major in Business and East Asian Studies at University of Southern California, where I began to be fascinated by the business potential for data in predicting future trends. I enjoy building machine learning models to predict, and I am passionate about data-driven business decision-making.
- 
-My data science skillset includes:
-* Programming: Python, R, Spark, Matlab, Excel
-* Visualizations: Tableau, ggplot2, Matplotlib
-* Databases: SQL(PostgreSQL, Oracle 11g, Microsoft SQL, Teradata), NoSQL(MongoDB)
-* Machine learning skills (Regression, Random Forests, Gradient Boosting, Support Vector Machine, Nature Language Processing)
-
-  
-## Projects
-### Machine Learning
-* London Energy Usage Forecasting
-* [Canadian Bankruptcy Rate Prediction Project (Time Series)](https://github.com/feiran-kyna-ji/canadian-bankruptcy-time-series)
-* Article Recommender
-
-### Data Mining
-* Sales Data Integration
-* Twitter Sentiment Analysis
-
-### Data Engineering
-* [USC Advancement Office Database Design](https://github.com/feiran-kyna-ji/usc-database-design)
-
-## Contact Me
-[LinkedIn](https://www.linkedin.com/in/kyna-ji/)  
-[Github](https://github.com/feiran-kyna-ji)
-
+## Project Overview
+Following is our model building process:
+*	Produced automated data pipeline
+  - Store data into Amazon S3
+  - Import from Amazon S3 to MongoDB running on AWS EC2 instance 
+  - Import from MongoDB to Amazon EMR cluster (YARN)
+* Preprocessed data and implemented feature engineering using Pandas and Spark SQL
+* Forecasted bi-hourly London smart meter usage one day ahead with a scalable random forest model (SparkML)
+* Implemented the model on Amazon EMR clusters
+*	Optimized computational performance by tuning configurations for Yarn cluster (level of parallelism, caching and memory settings)
