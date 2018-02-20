@@ -1,40 +1,11 @@
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113914402-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+# Sales Data Integration Project
 
-  gtag('config', 'UA-113914402-1');
-</script>
+## Goal
+The goal of this project is to help an online vendor to integrate data from different sales platforms (e.g. Amazon, Ebay, etc.) into a database. 
+This will enable more timely, accurate reports on sales performance of different products on different channels promoted by different campaigns, and enable better data and metric tracking along the way.
 
-<title>
-Kyna Ji
-</title>
-
-## Hi! I am Kyna :D
-I am currently a master candidate in Data Science at University of San Francisco. I am also a data science intern at Ubisoft. Prior to that, I graduated with a double major in Business and East Asian Studies at University of Southern California, where I began to be fascinated by the business potential for data in predicting future trends. I enjoy building machine learning models to predict, and I am passionate about data-driven business decision-making.
- 
-My data science skillset includes:
-* Programming: Python, R, Spark, Matlab, Excel
-* Visualizations: Tableau, ggplot2, Matplotlib
-* Databases: SQL(PostgreSQL, Oracle 11g, Microsoft SQL, Teradata), NoSQL(MongoDB)
-* Machine learning skills (Regression, Random Forests, Gradient Boosting, Support Vector Machine, Nature Language Processing)
-
-  
-## Projects
-### Machine Learning
-* London Energy Usage Forecasting
-* [Canadian Bankruptcy Rate Prediction Project (Time Series)](https://github.com/feiran-kyna-ji/canadian-bankruptcy-time-series)
-* Article Recommender
-
-### Data Mining
-* Sales Data Integration
-* Twitter Sentiment Analysis
-
-### Data Engineering
-* [USC Advancement Office Database Design](https://github.com/feiran-kyna-ji/usc-database-design)
-
-## Contact Me
-[LinkedIn](https://www.linkedin.com/in/kyna-ji/)  
-[Github](https://github.com/feiran-kyna-ji)
-
+## Project Overview
+Following is our project process:
+* Created a conceptual data model in Vertabelo based on information different sales platform provided
+* Write DDL statements to create database in PostgreSQL
+* Developed procedures, triggers, functions and generated documentation
