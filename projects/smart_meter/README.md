@@ -1,5 +1,5 @@
 # London Energy Usage Forecasting
-Author: [Kyna Ji](https://github.com/feiran-kyna-ji), [Chris Dong](https://github.com/dongchris), [Lingzhi Du](https://github.com/LenzDu), [Amber Song](https://github.com/ambersongzz), [Vanessa Zheng](https://github.com/VZ0624)
+Author: [Kyna Ji](https://github.com/feiran-kyna-ji), [Chris Dong](https://github.com/dongchris), [Lingzhi Du](https://github.com/LenzDu), [Amber Song](https://github.com/ambersongzz), [Vanessa Zheng](https://github.com/VZ0624)  
 (Publication is under submission)
 
 ## Goal
