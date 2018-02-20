@@ -22,12 +22,12 @@ My data science skillset includes:
 
 ## Projects
 ### Machine Learning
-* [London Energy Usage Forecasting](https://yudong-94.github.io/projects/smart_meter/README.md)
+* [London Energy Usage Forecasting](https://feiran-kyna-ji.github.io/projects/smart_meter/README.md)
 * [Canadian Bankruptcy Rate Prediction Project (Time Series)](https://github.com/feiran-kyna-ji/canadian-bankruptcy-time-series)
 * Article Recommender
 
 ### Data Mining
-* [Sales Data Integration](https://yudong-94.github.io/projects/sales_data/README.md)
+* [Sales Data Integration](https://feiran-kyna-ji.github.io/projects/sales_data/README.md)
 * Twitter Sentiment Analysis
 
 ### Data Engineering
