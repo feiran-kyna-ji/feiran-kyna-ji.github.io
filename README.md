@@ -28,8 +28,8 @@ My data science skillset includes:
 * Iowa Housing Price Prediction (Regression)
 
 ### Data Mining/Cleaning
-* Twitter Sentiment Analysis
-* Bart Data Cleaning
+* Twitter Sentiment Analysis (Natural Language Process)
+* Bart Data Cleaning 
 
 ### Data Engineering
 * [USC Advancement Office Database Design](https://github.com/feiran-kyna-ji/usc-database-design)
