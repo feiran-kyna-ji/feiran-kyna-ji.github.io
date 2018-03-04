@@ -26,6 +26,7 @@ My data science skillset includes:
 * [Canadian Bankruptcy Rate Prediction Project (Time Series)](https://github.com/feiran-kyna-ji/canadian-bankruptcy-time-series)
 * Article Recommender (Natural Language Process)
 * Iowa Housing Price Prediction (Regression)
+* [Data Challenge - Flight Delay Prediction (Random Forest)] (https://github.com/feiran-kyna-ji/data_challenge_flight_delay)
 
 ### Data Mining/Cleaning
 * Twitter Sentiment Analysis (Natural Language Process)
