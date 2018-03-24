@@ -23,8 +23,9 @@ My data science skillset includes:
 ## Projects
 ### Machine Learning
 * [London Energy Usage Forecasting (Random Forest)](https://feiran-kyna-ji.github.io/projects/smart_meter)
+  - Feiran Ji, Chris Dong, Lingzhi Du, Zizhen Song, Yuedi Zheng, Paul Intrevado, Diane Woodbridge.(2018) "Forecasting Smart Meter Energy Usage using Distributed Systems and Machine Learning" *Under Review*,  ***The 16th IEEE International Conference on Smart City***
 * [Canadian Bankruptcy Rate Prediction Project (Time Series)](https://github.com/feiran-kyna-ji/canadian-bankruptcy-time-series)
-* Article Recommender (Natural Language Process)
+* [Article Recommender (Natural Language Process)](https://github.com/feiran-kyna-ji/article_recommender)
 * [Iowa Housing Price Prediction (Regression)](https://github.com/feiran-kyna-ji/iowa_housing)
 * [Data Challenge - Flight Delay Prediction (Random Forest)](https://github.com/feiran-kyna-ji/data_challenge_flight_delay)
 
