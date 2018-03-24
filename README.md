@@ -30,9 +30,9 @@ My data science skillset includes:
 * [Data Challenge - Flight Delay Prediction (Random Forest, Python)](https://github.com/feiran-kyna-ji/data_challenge_flight_delay)
 
 ### Data Pipeline
-* Sprint: Building an Analytics Ingestion System
+* [Sprint: Building an Analytics Ingestion System](https://github.com/feiran-kyna-ji/sprint)
 * Twitter Sentiment Analysis
-* Bart Data Cleaning 
+* Bart Data Cleaning
 
 ### Data Engineering
 * [USC Advancement Office Database Design](https://github.com/feiran-kyna-ji/usc-database-design)
