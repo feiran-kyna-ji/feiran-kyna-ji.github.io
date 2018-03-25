@@ -31,7 +31,7 @@ My data science skillset includes:
 
 ### Data Pipeline
 * [Sprint: Building an Analytics Ingestion System](https://github.com/feiran-kyna-ji/sprint)
-* Twitter Sentiment Analysis
+* [Twitter Sentiment Analysis](https://github.com/feiran-kyna-ji/twitter-sentiment/)
 * Bart Data Cleaning
 
 ### Data Engineering
