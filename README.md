@@ -22,7 +22,7 @@ My data science skillset includes:
 
 ## Projects
 ### Machine Learning / Statistical Models
-* [Distributed Energy Usage Forecasting (Random Forest, Spark, Python)](https://feiran-kyna-ji.github.io/projects/smart_meter)
+* [Distributed Energy Usage Forecasting (Random Forest, Spark, Python)](https://github.com/feiran-kyna-ji/energy-prediction)
   -  "Forecasting Smart Meter Energy Usage using Distributed Systems and Machine Learning". *Under Review*,  ***The 16th IEEE International Conference on Smart City***
 * [Canadian Bankruptcy Rate Prediction Project (Time Series, R)](https://github.com/feiran-kyna-ji/canadian-bankruptcy-time-series)
 * [Article Recommender (Natural Language Process, Python)](https://github.com/feiran-kyna-ji/article_recommender)
