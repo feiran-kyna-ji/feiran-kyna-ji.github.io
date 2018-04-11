@@ -12,13 +12,13 @@ Kyna Ji
 </title>
 
 ## Hi! I am Kyna :D
-I am currently a master candidate in Data Science at University of San Francisco. I am also a data science intern at Ubisoft. Prior to that, I graduated with a double major in Business and East Asian Studies at University of Southern California, where I began to be fascinated by the business potential for data in predicting future trends. I enjoy building machine learning models to predict, and I am passionate about data-driven business decision-making.
- 
+I am currently finishing my Master's of Science in Data Science (MSDS) at University of San Francisco. I am also a data science intern at Ubisoft. Prior to that, I graduated with a double major in Business and East Asian Studies at University of Southern California, where I began to be fascinated by the business potential for data in predicting future trends. I enjoy building machine learning models to predict, and I am passionate about data-driven business decision-making. 
+
 My data science skillset includes:
-* Programming: Python, R, Spark, Matlab, Excel
-* Visualizations: Tableau, ggplot2, Matplotlib
-* Databases: SQL(PostgreSQL, Oracle 11g, Microsoft SQL, Teradata), NoSQL(MongoDB)
-* Machine learning skills (Regression, Random Forests, Gradient Boosting, Support Vector Machine, Neural Network)
+* Programming: Python, R, SQL, NoSQL, Spark, Matlab
+* Tools: AWS(S3, EC2, EMR), Hadoop, Git, Latex, Bash, Tableau
+* Statistical Methods (A/B Testing, Regression, Time Series, Hypothesis Testing)
+* Machine learning skills (Random Forest, Gradient Boosting, Neural Network, Clustering, Recommendation System, Natural Language Processing)
 
 ## Projects
 ### Machine Learning / Statistical Models
@@ -32,11 +32,11 @@ My data science skillset includes:
 ### Data Pipeline
 * [Sprint: Building an Analytics Ingestion System](https://github.com/feiran-kyna-ji/sprint)
 * [Twitter Sentiment Analysis](https://github.com/feiran-kyna-ji/twitter-sentiment/)
-* Bart Data Cleaning
 
 ### Data Engineering
 * [USC Advancement Office Database Design](https://github.com/feiran-kyna-ji/usc-database-design)
 * [Sales Data Integration](https://feiran-kyna-ji.github.io/projects/sales_data)
+
 
 ## Contact Me
 [LinkedIn](https://www.linkedin.com/in/kyna-ji/)  
