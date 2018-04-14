@@ -27,7 +27,6 @@ My data science skillset includes:
 * [Canadian Bankruptcy Rate Prediction Project (Time Series, R)](https://github.com/feiran-kyna-ji/canadian-bankruptcy-time-series)
 * [Article Recommender (Natural Language Process, Python)](https://github.com/feiran-kyna-ji/article_recommender)
 * [Iowa Housing Price Prediction (Regression, R)](https://github.com/feiran-kyna-ji/iowa_housing)
-* [Data Challenge - Flight Delay Prediction (Random Forest, Python)](https://github.com/feiran-kyna-ji/data_challenge_flight_delay)
 
 ### Data Pipeline
 * [Sprint: Building an Analytics Ingestion System](https://github.com/feiran-kyna-ji/sprint)
@@ -39,6 +38,9 @@ My data science skillset includes:
 
 ### Others
 * [LEGOIT Web Development (in progress)](https://msds698.github.io/group-assignment-2-legoit/)
+* [Data Visualization Exploration - Tableau, Seaborn, Plotly, Bokeh](https://github.com/feiran-kyna-ji/data-visualization)
+* [Data Challenge - Flight Delay Prediction](https://github.com/feiran-kyna-ji/data_challenge_flight_delay)
+
 
 ## Contact Me
 [LinkedIn](https://www.linkedin.com/in/kyna-ji/)  
