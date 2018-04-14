@@ -37,6 +37,8 @@ My data science skillset includes:
 * [USC Advancement Office Database Design](https://github.com/feiran-kyna-ji/usc-database-design)
 * [Sales Data Integration](https://feiran-kyna-ji.github.io/projects/sales_data)
 
+### Others
+* [LEGOIT Web Development (in progress)](https://msds698.github.io/group-assignment-2-legoit/)
 
 ## Contact Me
 [LinkedIn](https://www.linkedin.com/in/kyna-ji/)  
