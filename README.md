@@ -11,8 +11,8 @@
 Kyna Ji
 </title>
 
-## Hi! I am Kyna :D
-I am currently finishing my Master's of Science in Data Science (MSDS) at University of San Francisco. I am also a data science intern at Ubisoft. Prior to that, I graduated with a double major in Business and East Asian Studies at University of Southern California, where I began to be fascinated by the business potential for data in predicting future trends. I enjoy building machine learning models to predict, and I am passionate about data-driven business decision-making. Check my [Resume](https://drive.google.com/file/d/1hsDOSHSohMqzOG1-330cQ-VpiZ5XYXI1/).
+## Hi! I am Kyna =D
+I am currently finishing my Master's of Science in Data Science (MSDS) at University of San Francisco. I am also a data science intern at Ubisoft. Prior to that, I graduated with a double major in Business and East Asian Studies at University of Southern California, where I began to be fascinated by the business potential for data in predicting future trends. I enjoy building machine learning models to predict, and I am passionate about data-driven business decision-making. Check my [Resume](https://drive.google.com/file/d/1pGKs9Y7ZbKjowV74A_S49X8WMTeQwRnh/view?usp=sharing).
 
 My data science skillset includes:
 * Programming: Python, R, SQL, NoSQL, Spark, Matlab
