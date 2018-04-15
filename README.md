@@ -12,13 +12,13 @@ Kyna Ji
 </title>
 
 ## Hi! I am Kyna :D
-I am currently finishing my Master's of Science in Data Science (MSDS) at University of San Francisco. I am also a data science intern at Ubisoft. Prior to that, I graduated with a double major in Business and East Asian Studies at University of Southern California, where I began to be fascinated by the business potential for data in predicting future trends. I enjoy building machine learning models to predict, and I am passionate about data-driven business decision-making. 
+I am currently finishing my Master's of Science in Data Science (MSDS) at University of San Francisco. I am also a data science intern at Ubisoft. Prior to that, I graduated with a double major in Business and East Asian Studies at University of Southern California, where I began to be fascinated by the business potential for data in predicting future trends. I enjoy building machine learning models to predict, and I am passionate about data-driven business decision-making. Check my Resume [Here](https://drive.google.com/file/d/1hsDOSHSohMqzOG1-330cQ-VpiZ5XYXI1/).
 
 My data science skillset includes:
 * Programming: Python, R, SQL, NoSQL, Spark, Matlab
-* Tools: AWS(S3, EC2, EMR), Hadoop, Git, Latex, Bash, Tableau
-* Statistical Methods (A/B Testing, Regression, Time Series, Hypothesis Testing)
-* Machine learning skills (Random Forest, Gradient Boosting, Neural Network, Clustering, Recommendation System, Natural Language Processing)
+* Tools: AWS, Hadoop, Git, Latex, Bash, Tableau
+* Statistical Methods (A/B Testing, Regression, Time Series, Hypothesis Testing, Bayesian Analysis)
+* Machine learning skills (Random Forest, Boosting, Neural Networks, Clustering, Recommendation System, Natural Language Processing, Matrix Factorization)
 
 ## Projects
 ### Machine Learning / Statistical Models
