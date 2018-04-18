@@ -13,13 +13,13 @@ Kyna Ji
 
 ## Hi! I am Kyna :)
 I am currently finishing my Master's of Science in Data Science (MSDS) at University of San Francisco. I am also a data science intern at Ubisoft. Prior to that, I graduated with a double major in Business and East Asian Studies at University of Southern California, where I began to be fascinated by the business potential for data in predicting future trends. I enjoy building machine learning models to predict, and I am passionate about data-driven business decision-making. Check my [Resume](https://drive.google.com/file/d/1pGKs9Y7ZbKjowV74A_S49X8WMTeQwRnh/view?usp=sharing).
-
 In my own time, I love traveling and photography. You can find some of the photos I took [here](https://www.flickr.com/photos/128336669@N08/albums). 
 
 ## Projects
-My data science skillset includes:
+Here are some recent projects of mine. My data science skillset includes:
 * Programming: Python, R, SQL, NoSQL, Spark, Matlab
 * Tools: AWS, Hadoop, Git, Latex, Bash, Tableau
+
 ### Machine Learning / Statistical Models
 * [Distributed Energy Usage Forecasting (Random Forest, Spark, Python)](https://github.com/feiran-kyna-ji/Smart-Meter)
   -  "Forecasting Smart Meter Energy Usage using Distributed Systems and Machine Learning". *Under Review*,  ***The 16th IEEE International Conference on Smart City***
