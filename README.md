@@ -16,9 +16,6 @@ I am currently finishing my Master's of Science in Data Science (MSDS) at Univer
 In my own time, I love traveling and photography. You can find some of the photos I took [here](https://www.flickr.com/photos/128336669@N08/albums). 
 
 ## Projects
-Here are some recent projects of mine. My data science skillset includes:
-* Programming: Python, R, SQL, NoSQL, Spark, Matlab
-* Tools: AWS, Hadoop, Git, Latex, Bash, Tableau
 
 ### Machine Learning / Statistical Models
 * [Distributed Energy Usage Forecasting (Random Forest, Spark, Python)](https://github.com/feiran-kyna-ji/Smart-Meter)
