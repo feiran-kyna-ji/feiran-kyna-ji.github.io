@@ -1774,7 +1774,6 @@
 				padding: 0.85em 2em 0.85em 2em;
 				font-size: 1.1em;
 				margin-right:30px;
-				margin-bottom:30px;
 			}
 
 				input[type="button"].big,
@@ -1996,8 +1995,9 @@
 			.button {
 				text-align: center;
 				font-size: 1.2em;
-				width: 100%;
+				width: 80%;
 				padding: 1em 0 1em 0;
+				margin-bottom:10em;
 			}
 
 		/* List */
