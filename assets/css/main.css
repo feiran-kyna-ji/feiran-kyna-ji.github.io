@@ -1771,8 +1771,9 @@
 			input[type="reset"],
 			button,
 			.button {
-				padding: 1em 2.35em 1em 2.35em;
+				padding: 0.85em 2em 0.85em 2em;
 				font-size: 1.1em;
+				margin-right:30px;
 			}
 
 				input[type="button"].big,
@@ -1939,7 +1940,7 @@
 
 /* Mobile */
 
-	@media screen and (max-width: 600px) {
+	@media screen and (max-width: 736px) {
 
 		/* Basic */
 
